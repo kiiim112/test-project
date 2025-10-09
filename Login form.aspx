@@ -18,6 +18,8 @@
         <p>
             <asp:Button ID="Button1" runat="server" Text="sign in" />
         </p>
+        <asp:BulletedList ID="BulletedList1" runat="server">
+        </asp:BulletedList>
     </form>
 </body>
 </html>
