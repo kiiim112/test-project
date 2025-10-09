@@ -21,6 +21,7 @@
         <asp:BulletedList ID="BulletedList1" runat="server">
         </asp:BulletedList>
         <asp:Label ID="Label2" runat="server" Text="error msg"></asp:Label>
+        <asp:Label ID="Label3" runat="server" Text="Label"></asp:Label>
     </form>
 </body>
 </html>
