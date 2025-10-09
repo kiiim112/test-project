@@ -20,6 +20,8 @@
         </p>
         <asp:BulletedList ID="BulletedList1" runat="server">
         </asp:BulletedList>
+        <asp:Image ID="Image1" runat="server" Height="103px" Width="88px" />
+        <asp:Label ID="Label2" runat="server" Text="error msg"></asp:Label>
     </form>
 </body>
 </html>
